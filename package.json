@@ -1,0 +1,13 @@
+{
+    "name": "openvpn-mapper",
+    "description": "A web application that draws on a map OpenVPN connection locations",
+    "version": "0.1.0",
+    "license": "MIT",
+    "repository": "git:https://github.com/atrisk/openvpn-mapper.git",
+    "author": "Igor Lukanin <mail@igor.lukanin.name>",
+    "dependencies": {
+        "express": "^4.12.4",
+        "log": "^1.4.0",
+        "csv": "^0.4.5"
+    }
+}
